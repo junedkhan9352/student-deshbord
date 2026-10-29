@@ -1,0 +1,86 @@
+[
+    {
+        "id": "12",
+        "name": "sarik",
+        "email": "sa@gmail.com",
+        "password": "121212",
+        "mobile no.": "hgjkp",
+        "qualification": [
+            "bv"
+        ],
+        "course": "cyber securty",
+        "date": "28/10/26"
+    },
+    {
+        "id": "34",
+        "name": "ju",
+        "email": "@gmail.com",
+        "password": "121212",
+        "mobile no.": "hjok",
+        "qualification": [
+            "bca"
+        ],
+        "course": "full stack develovper",
+        "date": "28/10/26"
+    },
+    {
+        "id": "101",
+        "name": "juned",
+        "email": "j@gmail.com",
+        "password": "12345",
+        "mobile no.": "xxxxxxxxx",
+        "qualification": [
+            "bca"
+        ],
+        "course": "full stack develovper",
+        "date": "28/10/26"
+    },
+    {
+        "id": "100",
+        "name": "rehan",
+        "email": "r@gmail.com",
+        "password": "12345",
+        "mobile no.": "xxxxxxxx",
+        "qualification": [
+            "bca"
+        ],
+        "course": "AI & Machin learning",
+        "date": "28/10/26"
+    },
+    {
+        "id": "22",
+        "name": "sarik",
+        "email": "s@gmail.com",
+        "password": "12345",
+        "mobile no.": "xxxxxxxx",
+        "qualification": [
+            "bca"
+        ],
+        "course": "cyber securty",
+        "date": "28/10/26"
+    },
+    {
+        "id": "33",
+        "name": "aadil",
+        "email": "a@gmail.com",
+        "password": "12345",
+        "mobile no.": "C:\\Users\\juned\\AppData\\Local\\Python\\bin\\python.exe c:/Users/juned/OneDrive/Desktop/pythone3/students/auth/signup.py",
+        "qualification": [
+            "bca"
+        ],
+        "course": "full stack develovper",
+        "date": "28/10/26"
+    },
+    {
+        "id": "1111",
+        "name": "rehman",
+        "email": "r@gmail.com",
+        "password": "12345",
+        "mobile no.": "xxxxxxx",
+        "qualification": [
+            "bca"
+        ],
+        "course": "data scinctiest",
+        "date": "28/10/26"
+    }
+]
